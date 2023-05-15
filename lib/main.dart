@@ -31,7 +31,8 @@ void main() {
           ),
         ),
         appBar: AppBar(
-          title: const Text("Aplikasi Widget"),
+          title: Center(child:
+          const Text("Aplikasi Widget")),
         )),
   ));
 }
