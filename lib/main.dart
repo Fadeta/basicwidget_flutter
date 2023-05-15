@@ -2,11 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:line_icons/line_icon.dart';
 import 'package:line_icons/line_icons.dart';
 
-// ignore: constant_identifier_names
-const snackBar = SnackBar(
-  content: Text('Yey! A SnackBar!'),
-);
-
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
